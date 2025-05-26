@@ -16046,9 +16046,9 @@ textarea.form-control-lg {
 :root,
 [data-bs-theme=light] {
   --bs-body-bg-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.99) 100%);
-  --bs-body-bg-image: url(/images/pattern.png?d34aa84eaab0d3b789cbb892bf380b38);
+  --bs-body-bg-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/pattern.png?d34aa84eaab0d3b789cbb892bf380b38);
   --bs-body-bg-image-size: 4.6875rem;
-  --bs-body-bg-cover: url(/images/cover.jpg?35f28b34bffdce5b6f9f8ea5c8104d84);
+  --bs-body-bg-cover: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover.jpg?35f28b34bffdce5b6f9f8ea5c8104d84);
   --bs-body-font-weight: 400;
   --bs-body-letter-spacing: 0.046875rem;
   --bs-component-bg: #FFFFFF;
@@ -16056,7 +16056,7 @@ textarea.form-control-lg {
   --bs-component-color: rgba(0, 0, 0, 0.75);
   --bs-component-color-rgb: 0, 0, 0;
   --bs-app-header-bg: #FFFFFF;
-  --bs-app-header-brand-img: url(/images/logo.png?5263b0cd97ef226a1577a20d49b93d27);
+  --bs-app-header-brand-img: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/logo.png?5263b0cd97ef226a1577a20d49b93d27);
   --bs-app-header-link-color: #000000;
   --bs-app-header-link-color-rgb: 0, 0, 0;
   --bs-app-header-link-hover-color: #000000;
@@ -16077,9 +16077,9 @@ textarea.form-control-lg {
 
 [data-bs-theme=dark] {
   --bs-body-bg-gradient: linear-gradient(180deg, rgba(50, 70, 80, 0.9) 0%, rgb(13, 16, 27) 100%);
-  --bs-body-bg-image: url(/images/pattern-dark.png?9e6e2f051bcb6f73b3792a80bfbb0def);
+  --bs-body-bg-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/pattern-dark.png?9e6e2f051bcb6f73b3792a80bfbb0def);
   --bs-body-bg-image-size: 4.6875rem;
-  --bs-body-bg-cover: url(/images/cover-dark.jpg?35f28b34bffdce5b6f9f8ea5c8104d84);
+  --bs-body-bg-cover: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-dark.jpg?35f28b34bffdce5b6f9f8ea5c8104d84);
   --bs-body-font-weight: 300;
   --bs-body-letter-spacing: 0.046875rem;
   --bs-component-bg: #28292b;
@@ -16087,7 +16087,7 @@ textarea.form-control-lg {
   --bs-component-color: rgba(255, 255, 255, 0.75);
   --bs-component-color-rgb: 255, 255, 255;
   --bs-app-header-bg: rgba(29, 40, 53, 0.95);
-  --bs-app-header-brand-img: url(/images/logo-dark.png?2454c2611f595bf51df290cd7b47734b);
+  --bs-app-header-brand-img: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/logo-dark.png?2454c2611f595bf51df290cd7b47734b);
   --bs-app-header-link-color: #FFFFFF;
   --bs-app-header-link-color-rgb: 255, 255, 255;
   --bs-app-header-link-hover-color: rgba(255, 255, 255, 0.5);
@@ -26714,7 +26714,7 @@ body:not(.app-init) * {
 }
 
 .bg-cover-2:after {
-  background-image: url(/images/cover-2.jpg?c63e4eb4947ec0bb1a048315935ee613);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-2.jpg?c63e4eb4947ec0bb1a048315935ee613);
 }
 
 .bg-cover-none:after {
@@ -26722,11 +26722,11 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-2:after {
-  background-image: url(/images/cover-2-dark.jpg?c63e4eb4947ec0bb1a048315935ee613);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-2-dark.jpg?c63e4eb4947ec0bb1a048315935ee613);
 }
 
 .bg-cover-3:after {
-  background-image: url(/images/cover-3.jpg?770b8271f30a3e07bc53373e6b61bc02);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-3.jpg?770b8271f30a3e07bc53373e6b61bc02);
 }
 
 .bg-cover-none:after {
@@ -26734,11 +26734,11 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-3:after {
-  background-image: url(/images/cover-3-dark.jpg?770b8271f30a3e07bc53373e6b61bc02);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-3-dark.jpg?770b8271f30a3e07bc53373e6b61bc02);
 }
 
 .bg-cover-4:after {
-  background-image: url(/images/cover-4.jpg?80b649e0500db7e64ca39eae1115b0eb);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-4.jpg?80b649e0500db7e64ca39eae1115b0eb);
 }
 
 .bg-cover-none:after {
@@ -26746,11 +26746,11 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-4:after {
-  background-image: url(/images/cover-4-dark.jpg?80b649e0500db7e64ca39eae1115b0eb);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-4-dark.jpg?80b649e0500db7e64ca39eae1115b0eb);
 }
 
 .bg-cover-5:after {
-  background-image: url(/images/cover-5.jpg?1e3ad74e5c511c961c93f6f1129107cd);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-5.jpg?1e3ad74e5c511c961c93f6f1129107cd);
 }
 
 .bg-cover-none:after {
@@ -26758,11 +26758,11 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-5:after {
-  background-image: url(/images/cover-5-dark.jpg?1e3ad74e5c511c961c93f6f1129107cd);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-5-dark.jpg?1e3ad74e5c511c961c93f6f1129107cd);
 }
 
 .bg-cover-6:after {
-  background-image: url(/images/cover-6.jpg?babb7d439406ccb13abe9e10ed5b7977);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-6.jpg?babb7d439406ccb13abe9e10ed5b7977);
 }
 
 .bg-cover-none:after {
@@ -26770,11 +26770,11 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-6:after {
-  background-image: url(/images/cover-6-dark.jpg?babb7d439406ccb13abe9e10ed5b7977);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-6-dark.jpg?babb7d439406ccb13abe9e10ed5b7977);
 }
 
 .bg-cover-7:after {
-  background-image: url(/images/cover-7.jpg?3b2c6a43830bea43aa7e2376223efe29);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-7.jpg?3b2c6a43830bea43aa7e2376223efe29);
 }
 
 .bg-cover-none:after {
@@ -26782,11 +26782,11 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-7:after {
-  background-image: url(/images/cover-7-dark.jpg?3b2c6a43830bea43aa7e2376223efe29);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-7-dark.jpg?3b2c6a43830bea43aa7e2376223efe29);
 }
 
 .bg-cover-8:after {
-  background-image: url(/images/cover-8.jpg?6a4615d90bc4c22206b0a165cb6f0166);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-8.jpg?6a4615d90bc4c22206b0a165cb6f0166);
 }
 
 .bg-cover-none:after {
@@ -26794,11 +26794,11 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-8:after {
-  background-image: url(/images/cover-8-dark.jpg?6a4615d90bc4c22206b0a165cb6f0166);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-8-dark.jpg?6a4615d90bc4c22206b0a165cb6f0166);
 }
 
 .bg-cover-9:after {
-  background-image: url(/images/cover-9.jpg?ddd555898de33adae21f029390800f03);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-9.jpg?ddd555898de33adae21f029390800f03);
 }
 
 .bg-cover-none:after {
@@ -26806,7 +26806,7 @@ body:not(.app-init) * {
 }
 
 [data-bs-theme=dark].bg-cover-9:after {
-  background-image: url(/images/cover-9-dark.jpg?ddd555898de33adae21f029390800f03);
+  background-image: url(https://cdn.jsdelivr.net/gh/N1ghtWind/awesomeapp/assets/css/images/cover-9-dark.jpg?ddd555898de33adae21f029390800f03);
 }
 
 /* Helper Opacity */
